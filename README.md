@@ -12,6 +12,7 @@ RU
 После подключения вы получите полный контроль над автопилотом, частотами COM и NAV, а также освещением. Кроме того, вы сможете отслеживать положение вашего самолета на интерактивной карте в реальном времени.
 
 EN
+
 Getting Started:
 1. Download the app from the Google Play Store.
 2. To link the app with the simulator, download the server application (available as Python source code or a ready-to-use .exe file).
