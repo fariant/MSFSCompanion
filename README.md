@@ -3,8 +3,7 @@ Android app MSFS Companion
 
 RU
 
-## :gear:
-Преврати свое Android-устройство в полноценную внешнюю панель управления (Flight Deck) для Microsoft Flight Simulator. Освободите экран монитора от лишних окон интерфейса — управляйте ключевыми системами самолета и отслеживайте навигацию с экрана смартфона или планшета в реальном времени.
+⚙️Преврати свое Android-устройство в полноценную внешнюю панель управления (Flight Deck) для Microsoft Flight Simulator. Освободите экран монитора от лишних окон интерфейса — управляйте ключевыми системами самолета и отслеживайте навигацию с экрана смартфона или планшета в реальном времени.
 ​Приложение работает без задержек благодаря надежной двусторонней связи с симулятором: любые изменения на аппаратных панелях в кабине мгновенно отображаются на устройстве, и наоборот.
 
 ​ОСНОВНЫЕ ВОЗМОЖНОСТИ:
@@ -16,7 +15,7 @@ RU
 ​Контроль внешнего освещения (NAV, BEACON, STROBE, TAXI, LANDING).
 ​Управление закрылками с визуализацией текущей позиции.
 
-Как начать работу:
+🚀Как начать работу:
 1. Установите приложение из Google Play Store.
 2. Для связи приложения с симулятором скачайте серверную часть (доступен исходный код на Python или готовый .exe файл).
 3. Запустите MSFS, а затем откройте сервер на компьютере.
@@ -26,7 +25,7 @@ RU
 
 EN
 
-Turns your Android device into a fully functional external flight deck for Microsoft Flight Simulator. Free up your monitor from cluttered interface windows — control key aircraft systems and track your navigation in real-time right from your smartphone or tablet.
+⚙️Turns your Android device into a fully functional external flight deck for Microsoft Flight Simulator. Free up your monitor from cluttered interface windows — control key aircraft systems and track your navigation in real-time right from your smartphone or tablet.
 The app operates with zero lag thanks to a reliable two-way connection with the simulator: any adjustments made on the physical cockpit panels are instantly reflected on your device, and vice versa.
 
 KEY FEATURES:
@@ -38,7 +37,7 @@ Transponder panel with Squawk code input and IDENT button.
 Exterior lights control (NAV, BEACON, STROBE, TAXI, LANDING).
 Flaps management with visual position indicators.
 
-Getting Started:
+🚀Getting Started:
 1. Download the app from the Google Play Store.
 2. To link the app with the simulator, download the server application (available as Python source code or a ready-to-use .exe file).
 3. Launch MSFS, then start the server on your PC.
