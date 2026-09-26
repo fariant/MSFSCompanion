@@ -14,6 +14,9 @@ RU
 ​Панель ответчика (Transponder) с вводом кода (Squawk) и кнопкой IDENT.
 ​Контроль внешнего освещения (NAV, BEACON, STROBE, TAXI, LANDING).
 ​Управление закрылками с визуализацией текущей позиции.
+Интеграция с SimBrief: загружайте свой план полёта прямо в приложение и отслеживайте маршрут на карте в реальном времени.
+Аэронавигационные чарты: отдельная вкладка со схемами и актуальными чартами аэропортов.
+Погода METAR: быстрая сводка погоды по ICAO-коду любого аэропорта.
 
 🚀Как начать работу:
 1. Установите приложение из Google Play Store.
@@ -36,6 +39,9 @@ Systems & Flight Controls:
 Transponder panel with Squawk code input and IDENT button.
 Exterior lights control (NAV, BEACON, STROBE, TAXI, LANDING).
 Flaps management with visual position indicators.
+SimBrief Integration: Import your flight plan directly into the app and track your route on the map in real time.
+Aeronautical Charts: A dedicated tab with up-to-date airport diagrams and approach charts.
+METAR Weather: Quick weather reports by entering any airport's ICAO code.
 
 🚀Getting Started:
 1. Download the app from the Google Play Store.
